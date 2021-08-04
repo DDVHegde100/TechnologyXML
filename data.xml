@@ -1,1 +1,29 @@
-﻿Valid XML
+<?xml version="1.0" encoding="UTF-8"?>
+<Technology>
+<components>
+    <name>CPU</name>
+    <description>Information Processor in PC</description> 
+    <company>Intel, AMD</company>
+</components>
+<components>
+    <name>GPU</name>
+    <description>
+    Graphics Card for displaying information. 
+    </description>
+    <company>NVIDIA, AMD</company>
+</components>
+<components>
+    <name>Storage</name>
+    <description>
+    HDD or SSD that allows for sotrage of files.
+    </description>
+    <company>JRR Tolkien</company>
+</components>
+<components>
+    <name>RAM</name>
+    <description>
+    Random Access Memory
+    </description>
+    <company>Ballistix</company>
+</components>
+</Technology>
